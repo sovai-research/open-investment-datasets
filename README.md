@@ -1,6 +1,6 @@
 # The OID Initiative
 
-* We look to develop the gold-standard for open datasets in investment research.
-* Most alternative data companies make trials available to their institutional clients.
-* It is out process that this process can happen out in the open without any loss to us and that everyone should be able to particiapte.
-* As such we make our data available to anyone and everyone with a small lag, all paying users will get real-time datasets.
+* Building the industry's first open-source benchmark datasets for investment research
+* Unlike traditional vendors who limit trials to institutions, we believe in open access
+* Our transparent approach benefits the entire community while preserving our competitive edge
+* Free access to all datasets with a brief delay; subscribers receive real-time data
