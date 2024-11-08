@@ -14,10 +14,6 @@ I'm **Derek Snow**, founder and researcher at [sov.ai](https://sov.ai). My focus
 
 [LinkedIn](https://www.linkedin.com/in/snowderek/) | [GitHub](https://github.com/sovai-research/) | [Hugging Face](https://huggingface.co/sovai_research)
 
-## 📊 AI & ML Interests
-
-- **AI & ML in Quantitative Finance**
-
 ## The OID Initiative
 
 * Building the industry's first open-source benchmark datasets for investment research
