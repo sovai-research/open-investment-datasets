@@ -15,7 +15,7 @@ I'm **Derek Snow**, founder and researcher at [sov.ai](https://sov.ai). My focus
 
 The price is for commercial usage of lagged data. If you are an academic ignore it, simply download your data from Huggingface!
 
-| Emoji | Dataset | Description | Documentation | Price (per month) |
+| Emoji | Dataset | Description | Documentation | Price p/m |
 |-------|---------|-------------|---------------|-------------------|
 | 📰 | [sovai/news_sentiment](https://huggingface.co/datasets/sovai/news_sentiment) | Two types of news datasets have been developed, one is ticker-matched, and the next is theme-matched. | [Documentation](https://docs.sov.ai/realtime-datasets/equity-datasets/news-sentiment) | $200 |
 | 📈 | [sovai/price_breakout](https://huggingface.co/datasets/sovai/price_breakout) | A dataset with daily updated predictions of price breaking upwards for US Equities. | [Documentation](https://docs.sov.ai/realtime-datasets/equity-datasets/price-breakout) | $220 |
