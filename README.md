@@ -1,9 +1,7 @@
 # Sovai's Open Investment Datasets
 ![Hugging Face Logo](https://huggingface.co/front/assets/huggingface_logo-noborder.svg) 
 
-* Building the industry's first open-source benchmark datasets for investment research
-* Unlike traditional vendors who limit trials to institutions, we believe in open access
-* Free access to all datasets with a brief delay; subscribers receive real-time data
+Building the industry's first open-source benchmark datasets for investment research. Unlike traditional vendors who limit trials to institutions, we believe in open access. Free access to all datasets with a brief delay; subscribers receive real-time data
 
 
 ## 👋 About Me
