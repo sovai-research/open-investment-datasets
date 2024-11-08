@@ -39,7 +39,7 @@ The price is for commercial usage of lagged data. If you are an academic ignore 
 
 **Cost Tip:** For commercial access to all **30 real-time datasets** on [docs.sov.ai](https://docs.sov.ai), I recommend you subscribe to the **$285 p/m package**, you can save as much as **90%** of the costs. 
 
-Our datasets are in beta, and we are looking to work with clients as contirbuting archetects to the final product. Please click on the issue tab to make any suggestions or enquire about errors. 
+All our datasets are in beta, be part of our development process. Submit suggestions or error reports through the issues portal.
 
 ## 🧪 Example Use Cases
 
