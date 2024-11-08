@@ -26,7 +26,7 @@ I'm **Derek Snow**, founder and researcher at [sov.ai](https://sov.ai). My focus
 
 ## 📚 Datasets
 
-Here are the datasets I have curated, the 6-month lagged datasets are available free of charge for academic usage. The price is for non-academic usage, if you are a member of sov.ai, you can get access to all the below datasets below and on the website docs.sov.ai, including the analytical tools for just $285 p/m, instead of paying per dataset. 
+The price is for commercial usage of lagged data. If you are an academic ignore it. For commercial access to all the real-time datasets and analytics available on docs.sov.ai, I recommend you subscribe to the $285 p/m package, you can save as much as 90/% of the costs. 
 
 | Emoji | Dataset | Description | Documentation | Price (per month) |
 |-------|---------|-------------|---------------|-------------------|
