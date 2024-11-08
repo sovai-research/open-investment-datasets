@@ -1,7 +1,3 @@
-# The OID Initiative
-
-
-
 # Sovai's Academic Datasets
 
 ![Hugging Face Logo](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)
