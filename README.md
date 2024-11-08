@@ -5,7 +5,7 @@ Building the industry's first open-source datasets for investment research. Unli
 
 
 ## 👋 About Me
-I'm [**Derek Snow**](https://github.com/firmai/), founder and researcher at [sov.ai](https://sov.ai). My focus lies in **AI & ML in Quantitative Finance**, where I develop and curate datasets to advance research and applications in this field. Since 2017, I have contributed to 68 open source projects, that have collected millions of downloads. 
+I'm [Derek Snow](https://github.com/firmai/), founder and researcher at [sov.ai](https://sov.ai). My focus lies in **AI & ML in Quantitative Finance**, where I develop and curate datasets to advance research and applications in this field. 
 
 
 ## 🌐 Connect with Me
