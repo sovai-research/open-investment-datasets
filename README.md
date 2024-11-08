@@ -37,7 +37,7 @@ The price is for commercial usage of lagged data. If you are an academic ignore 
 | 👥 | [sovai/earnings_surprise](https://huggingface.co/datasets/sovai/earnings_surprise) | Earnings announcements are obtained from external sources as well as estimate information leading up to the actual announcement. | [Documentation](https://docs.sov.ai/realtime-datasets/equity-datasets/earnings-surprise) | $680 |
 | ❗ | [sovai/bankruptcy](https://huggingface.co/datasets/sovai/bankruptcy) | Chapter 7 and Chapter 11 bankruptcy predictions made easy for over 5,000 US publicly traded stocks. | [Documentation](https://docs.sov.ai/realtime-datasets/equity-datasets/bankruptcy-predictions) | $270 |
 
-**Cost Tip:** For commercial access to all 30 of the real-time datasets on docs.sov.ai, I recommend you subscribe to the **$285 p/m package**, you can save as much as **90%** of the costs. 
+**Cost Tip:** For commercial access to all 30 of the real-time datasets on [docs.sov.ai](docs.sov.ai), I recommend you subscribe to the **$285 p/m package**, you can save as much as **90%** of the costs. 
 
 ## 🧪 Example Use Cases
 
