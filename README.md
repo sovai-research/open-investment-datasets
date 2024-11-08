@@ -1,8 +1,8 @@
 # Sovai's Academic Datasets
 
-![Hugging Face Logo](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)
 
-## The OID Initiative
+
+## ![Hugging Face Logo](https://huggingface.co/front/assets/huggingface_logo-noborder.svg) The OID Initiative
 
 * Building the industry's first open-source benchmark datasets for investment research
 * Unlike traditional vendors who limit trials to institutions, we believe in open access
