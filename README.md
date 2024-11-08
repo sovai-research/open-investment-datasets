@@ -155,14 +155,3 @@ Below are example code snippets demonstrating how to load each dataset using the
     df_bankruptcy = load_dataset("sovai/bankruptcy", split="train").to_pandas()
     ```
 
-## 📈 Usage
-
-To utilize these datasets in your projects, you can access them directly through Hugging Face or clone the repository:
-
-```bash
-# Clone the repository
-git clone https://huggingface.co/datasets/sovai_research
-
-# Navigate to the desired dataset
-cd sovai_research/datasets
-```
