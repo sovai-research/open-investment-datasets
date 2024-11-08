@@ -1,12 +1,12 @@
 # Sovai's Academic Datasets
 
-
-
-## ![Hugging Face Logo](https://huggingface.co/front/assets/huggingface_logo-noborder.svg) The OID Initiative
+## The OID Initiative
 
 * Building the industry's first open-source benchmark datasets for investment research
 * Unlike traditional vendors who limit trials to institutions, we believe in open access
 * Free access to all datasets with a brief delay; subscribers receive real-time data
+
+![Hugging Face Logo](https://huggingface.co/front/assets/huggingface_logo-noborder.svg) 
 
 ## 👋 About Me
 I'm **Derek Snow**, founder and researcher at [sov.ai](https://sov.ai). My focus lies in **AI & ML in Quantitative Finance**, where I develop and curate datasets to advance research and applications in this field.
