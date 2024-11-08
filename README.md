@@ -26,7 +26,7 @@ I'm **Derek Snow**, founder and researcher at [sov.ai](https://sov.ai). My focus
 
 ## 📚 Datasets
 
-The price is for commercial usage of lagged data. If you are an academic ignore it. For commercial access to all the real-time datasets and analytics available on docs.sov.ai, I recommend you subscribe to the $285 p/m package, you can save as much as 90% of the costs. 
+The price is for commercial usage of lagged data. If you are an academic ignore it, simply download your data from Huggingface!
 
 | Emoji | Dataset | Description | Documentation | Price (per month) |
 |-------|---------|-------------|---------------|-------------------|
@@ -48,6 +48,8 @@ The price is for commercial usage of lagged data. If you are an academic ignore 
 | 🚦 | [sovai/traffic_agencies](https://huggingface.co/datasets/sovai/traffic_agencies) | Traffic agency data. | [Documentation](https://docs.sov.ai/realtime-datasets/economic-datasets/government-traffic) | $250 |
 | 👥 | [sovai/earnings_surprise](https://huggingface.co/datasets/sovai/earnings_surprise) | Earnings announcements are obtained from external sources as well as estimate information leading up to the actual announcement. | [Documentation](https://docs.sov.ai/realtime-datasets/equity-datasets/earnings-surprise) | $270 |
 | ❗ | [sovai/bankruptcy](https://huggingface.co/datasets/sovai/bankruptcy) | Chapter 7 and Chapter 11 bankruptcy predictions made easy for over 5,000 US publicly traded stocks. | [Documentation](https://docs.sov.ai/realtime-datasets/equity-datasets/bankruptcy-predictions) | $270 |
+
+For commercial access to all the real-time datasets and analytics available on docs.sov.ai, I recommend you **subscribe to the $285 p/m package**, you can save as much as **90%** of the costs. 
 
 ## 🧪 Example Use Cases
 
