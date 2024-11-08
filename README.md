@@ -40,6 +40,10 @@ The price is for commercial usage of lagged data. If you are an academic ignore 
 
 ## 🧪 Example Use Cases
 
+```bash
+pip install datasets
+```
+    
 Below are example code snippets demonstrating how to load each dataset using the Hugging Face `datasets` library.
 
 - 📰 **[sovai/news_sentiment](https://huggingface.co/datasets/sovai/news_sentiment)**
