@@ -10,7 +10,7 @@ I'm [Derek Snow](https://github.com/firmai/), founder and researcher at [sov.ai]
 
 ## 🌐 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/snowderek/) | [GitHub](https://github.com/sovai-research/) | [Hugging Face](https://huggingface.co/sovai_research)
+[LinkedIn](https://www.linkedin.com/in/snowderek/) | [GitHub](https://github.com/sovai-research/) | [Hugging Face](https://huggingface.co/sovai)
 
 ## 📚 Datasets
 
