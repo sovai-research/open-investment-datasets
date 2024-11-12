@@ -14,7 +14,7 @@ I'm [Derek Snow](https://github.com/firmai/), founder and researcher at [sov.ai]
 
 ## 📚 Datasets
 
-The price is for commercial usage of lagged data. If you are an academic ignore it, simply download your data from Huggingface!
+The price is for commercial usage of lagged data. If you are an academic ignore it, simply download your data from Hugging Face!
 
 | Emoji | Dataset | Description | Documentation | Price p/m |
 |-------|---------|-------------|---------------|-------------------|
